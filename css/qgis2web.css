@@ -19,6 +19,9 @@
             color: #1f78b4 !important;
             box-shadow: 0 0 15px rgba(0,0,0,0.2);
             border-radius: 5px;
+		}
+		.info h1;
+
         }
         .info h2 {
             margin: 0 0 5px;
@@ -193,4 +196,5 @@
             display: flex;
             justify-content: center;
             align-items: center;
+
         }
